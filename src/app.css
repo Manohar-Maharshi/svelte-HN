@@ -1,4 +1,7 @@
 /* Write your global styles here, in PostCSS syntax */
 @tailwind base;
 @tailwind components;
+body{
+	@apply bg-[#0f171f] text-gray-100;
+}
 @tailwind utilities;
