@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: svelte-add",
+      "code": "ENOENT",
+      "stack": "Error: not found: svelte-add\n    at getNotFoundError (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:36331:51)\n    at Function.whichSync [as sync] (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:36408:13)\n    at getCommandAbsolutePathSync (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:37973:44)\n    at default_1 (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:37982:32)\n    at C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:130218:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "C:\\Users\\Manohar\\Desktop\\svelte-hn",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: svelte-add",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: svelte-add\n    at getNotFoundError (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:36331:51)\n    at Function.whichSync [as sync] (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:36408:13)\n    at getCommandAbsolutePathSync (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:37973:44)\n    at default_1 (C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:37982:32)\n    at C:\\Users\\Manohar\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.23.2\\node_modules\\pnpm\\dist\\pnpm.cjs:130218:39"
+    }
+  }
+}
