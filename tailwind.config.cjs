@@ -4,9 +4,15 @@ const config = {
 
   theme: {
     extend: {},
+	fontFamily:{
+		'sans': ['Signika', 'Arial', 'sans-serif'],
+	},
   },
 
-  plugins: [],
+  plugins: [
+  	require('@tailwindcss/line-clamp'),
+  	require('@tailwindcss/typography'),
+  ],
 };
 
 module.exports = config;
