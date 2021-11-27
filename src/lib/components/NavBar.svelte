@@ -1,8 +1,6 @@
 <script>
 	import { page } from "$app/stores"
 	import Icon from '@iconify/svelte';
-	import NavLink from '$lib/components/NavLink.svelte'
-
 </script>
 <main class="border-b border-gray-800 shadow-md mb-2">
 	<nav class="container mx-auto px-3 flex items-center justify-between space-x-6 py-1">
